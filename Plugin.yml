@@ -1,6 +1,6 @@
 ---
 name: ArowwTP 
 author: xd_plugins_xd
-main:
+main: ArowwTP\Main
 version: 1.0
 api: [2.0.0]
